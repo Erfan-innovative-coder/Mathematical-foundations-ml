@@ -1,0 +1,3 @@
+Test,T-Statistic,P-Value,Significance Level,Decision
+One-Sample t-Test,0.18574646861844088,0.8534103810550652,0.05,Fail to reject H0
+Welch's Two-Sample t-Test,-2.188440781543366,0.03115173766383394,0.05,Reject H0
