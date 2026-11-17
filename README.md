@@ -97,7 +97,7 @@ mathematical-foundations-ml/
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Erfan-innovative-coder/mathematical-foundations-ml.git
 cd mathematical-foundations-ml
 pip install -r requirements.txt
 ```
